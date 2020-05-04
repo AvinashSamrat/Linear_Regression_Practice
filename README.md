@@ -1,2 +1,2 @@
-# gaji
-it's new.
+# Linear Regression
+
